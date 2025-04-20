@@ -1,8 +1,5 @@
 # Jewellkart
-<img width="1787" alt="Screenshot 2025-04-20 at 7 18 23 PM" src="https://github.com/user-attachments/assets/054ffdb1-3fbb-4435-9891-09cbbeea3585" />
 <img width="1785" alt="Screenshot 2025-04-20 at 7 16 41 PM" src="https://github.com/user-attachments/assets/713879f8-2ca6-4331-b6b3-30d7657392cf" />
-
-<img width="1788" alt="Screenshot 2025-04-20 at 7 17 22 PM" src="https://github.com/user-attachments/assets/56a7f7f8-58ea-4bea-a012-8dd4541094d7" />
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
