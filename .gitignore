@@ -17,6 +17,9 @@ node_modules
 .settings/
 *.sublime-workspace
 
+apps/server/.env
+apps/server/.env.local
+
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json
@@ -40,3 +43,7 @@ Thumbs.db
 
 .nx/cache
 .nx/workspace-data
+
+vite.config.*.timestamp*
+vitest.config.*.timestamp*
+test-output

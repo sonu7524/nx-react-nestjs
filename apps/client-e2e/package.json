@@ -1,0 +1,10 @@
+{
+  "name": "@jewellkart/client-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@jewellkart/client"
+    ]
+  }
+}

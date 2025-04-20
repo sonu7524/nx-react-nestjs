@@ -1,0 +1,6 @@
+[submodule "apps/backend"]
+	path = apps/backend
+	url = https://github.com/sonu7524/Ecommerce-NestJs.git
+[submodule "apps/server"]
+	path = apps/server
+	url = https://github.com/sonu7524/Ecommerce-NestJs.git
